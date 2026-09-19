@@ -4,7 +4,7 @@ Projeto acadêmico desenvolvido para a disciplina de Sistemas de Informação, c
 
 O projeto contempla a estruturação do negócio, identificação das necessidades dos usuários, organização dos requisitos e planejamento das funcionalidades do sistema.
 
-📋 Conteúdo
+Conteúdo
 Modelo de Negócio (Canvas)
 Histórias de Usuário
 Mapa de Afinidades
@@ -14,12 +14,12 @@ Levantamento de Requisitos
 Tarefas
 Quadro Trello
 
-🛠️ Ferramentas Utilizadas
-Excel — organização e documentação
-Miro — mapas e diagramas
-Trello — organização e acompanhamento das tarefas
+Ferramentas Utilizadas
+- **Excel**: organização e documentação
+- **Miro**: mapas e diagramas
+- **Trello**: organização e acompanhamento das tarefas
     
-🎯 Objetivo
+Objetivo
 
 O objetivo do projeto é aplicar conceitos de Análise de Sistemas, Engenharia de Requisitos e Gestão de Projetos, estruturando as principais necessidades e funcionalidades de uma solução digital para uma cafeteria gourmet com atendimento e delivery.
 
