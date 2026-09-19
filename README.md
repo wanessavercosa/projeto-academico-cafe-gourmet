@@ -18,21 +18,6 @@ Quadro Trello
 Excel — organização e documentação
 Miro — mapas e diagramas
 Trello — organização e acompanhamento das tarefas
-
-📁 Estrutura do Projeto
-📦 Chouchou-Gourmet
-│
-├── 📂 docs/
-│   └── Documentação do projeto
-│
-├── 📂 modelo-de-negocio/
-│   └── Canvas do negócio
-│
-├── 📂 requisitos/
-│   └── Requisitos e Product Backlog
-│
-└── 📂 tarefas/
-    └── Tarefas e organização do projeto
     
 🎯 Objetivo
 
