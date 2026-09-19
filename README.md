@@ -26,4 +26,5 @@ O objetivo do projeto é aplicar conceitos de Análise de Sistemas, Engenharia d
 👩‍💻 Autora
 
 Wanessa Verçosa Santana de França
+
 Estudante de Sistemas de Informação
